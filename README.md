@@ -1,4 +1,12 @@
 <h1 align="center">Hi 👋, I'm Fidèle Kokou EKLOU</h1>
+
+<!-- Intro -->
+<p style="margin: 15px;" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;Flutter+for+life">
+    <h3 align="center">Love JS, love writting dev article and share my knowledges.</h3>
+    <h3 align="center">I'm web developper</h3>
+</p>
+
 <h3 align="center">🔥 A passionate Full Stack developer from Togo, turning ideas into powerful digital solutions! 🚀</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fidelechester" alt="fidelechester" /></a> </p>
